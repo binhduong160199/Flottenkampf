@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Aufgabe7",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Aufgabe7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aufgabe7-Debug-df0dbde6cac6f3b63f3d.json",
+					"name" : "Aufgabe7",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/binhduongnguyen/Desktop/FH Technikum/2.Semester/Objektorientierte Programmierung Labor/Flottenkampf/cmake-build-debug",
+		"source" : "/Users/binhduongnguyen/Desktop/FH Technikum/2.Semester/Objektorientierte Programmierung Labor/Flottenkampf"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

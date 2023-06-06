@@ -1,0 +1,17 @@
+# ninja log v5
+6	526	1686082328904368692	CMakeFiles/Aufgabe7.dir/Kreuzer.cpp.o	49e616047d6d59c
+6	494	1686082328872053577	CMakeFiles/Aufgabe7.dir/Zerstoerer.cpp.o	b3ec6f13cc12dbf4
+6	500	1686082328878284789	CMakeFiles/Aufgabe7.dir/main.cpp.o	dc8c25cf4511561c
+6	499	1686082328877087689	CMakeFiles/Aufgabe7.dir/Ship.cpp.o	71b3471f2af247fb
+6	493	1686082328870764601	CMakeFiles/Aufgabe7.dir/Jager.cpp.o	2a8bc6edbbde7050
+760	796	1686082329176511299	Aufgabe7	276c2e79c7dd55c5
+493	760	1686082329139323492	CMakeFiles/Aufgabe7.dir/Game.cpp.o	c45f8fbeaf3fbf0d
+6	529	1686082328907744364	CMakeFiles/Aufgabe7.dir/Player.cpp.o	2de9ee08859527bf
+25	414	1686082533373138118	CMakeFiles/Aufgabe7.dir/Jager.cpp.o	3bba2d74b154ec2
+25	417	1686082533374870899	CMakeFiles/Aufgabe7.dir/Zerstoerer.cpp.o	1c19b6554bfa4777
+24	417	1686082533374299611	CMakeFiles/Aufgabe7.dir/main.cpp.o	b9e2f0bbcac4f4ba
+25	421	1686082533381589897	CMakeFiles/Aufgabe7.dir/Ship.cpp.o	65f9dad270584715
+25	428	1686082533388227520	CMakeFiles/Aufgabe7.dir/Kreuzer.cpp.o	25f9f6d342cbb2e5
+25	430	1686082533391059585	CMakeFiles/Aufgabe7.dir/Player.cpp.o	b641b496a0c995a3
+414	680	1686082533641429755	CMakeFiles/Aufgabe7.dir/Game.cpp.o	1c55d7b0b06bac21
+680	714	1686082533676835526	Aufgabe7	276c2e79c7dd55c5
